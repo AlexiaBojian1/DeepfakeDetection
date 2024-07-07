@@ -32,6 +32,7 @@ This project aims to detect deepfake images using machine learning techniques. I
 ├── features.npy           # Numpy array of extracted features
 ├── labels.npy             # Numpy array of labels corresponding to features
 └── README.md              # This README file
+```
 
 # Installation
 
