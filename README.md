@@ -101,3 +101,4 @@ The feature extraction process involves several techniques to analyze various as
 - **Color Histogram Analysis**: Analyzes color distribution.
 - **Edge Detection**: Detects edges in the image.
 
+## Results
