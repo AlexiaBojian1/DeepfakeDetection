@@ -102,3 +102,5 @@ The feature extraction process involves several techniques to analyze various as
 - **Edge Detection**: Detects edges in the image.
 
 ## Results
+![Alt text](result.jpeg)
+
